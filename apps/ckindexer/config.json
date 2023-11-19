@@ -1,0 +1,23 @@
+{
+  "$schema": "../schema.json",
+  "name": "CK Indexer",
+  "available": true,
+  "port": 8093,
+  "id": "ckindexer",
+  "tipi_version": 16,
+  "version": "1.52.0",
+  "categories": [
+    "network",
+    "security"
+  ],
+  "description": "CK Indexer est une application qui permet de visualiser et d'indexer des documents PDF.",
+  "short_desc": "Outil d'inxexation de documents.",
+  "author": "© Tailscale Inc.",
+  "source": "https://github.com/tailscale/tailscale",
+  "website": "https://www.ck.lu/",
+  "form_fields": [],
+  "supported_architectures": [
+    "arm64",
+    "amd64"
+  ]
+}
